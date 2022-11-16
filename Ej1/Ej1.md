@@ -1,0 +1,2 @@
+# Ejercicio 1
+## ¿Para qué sirve un compilador? ¿Qué tipo de archivo obtenemos tras compilar?
