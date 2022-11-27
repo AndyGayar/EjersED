@@ -31,50 +31,58 @@ Commits:
 
 15 Update EJ4.md b98bd303c2a640b2e1d9d91bc56d2fdb45207418
 
-15 EJ5 95685dc0088c53f2049d672ac0da60e726f804f4
+16 EJ5 95685dc0088c53f2049d672ac0da60e726f804f4
 
-16 Rename EJ5 to EJ5.md 098ef44edfb3d9c6577db2502954b34f60a32524
+17 Rename EJ5 to EJ5.md 098ef44edfb3d9c6577db2502954b34f60a32524
 
-17 Update EJ5.md cb3c6f756eb84abfbf4f6d6d7ec4922fa16e8185
+18 Update EJ5.md cb3c6f756eb84abfbf4f6d6d7ec4922fa16e8185
 
-18 Ej6 db6f75dc368a278c405ab1e436186cfe6efb0605
+19 Ej6 db6f75dc368a278c405ab1e436186cfe6efb0605
 
-19 Update and rename EJ6 to EJ6.md 6f0c44f9811f728ceeb95a44641bd4f81917732c
+20 Update and rename EJ6 to EJ6.md 6f0c44f9811f728ceeb95a44641bd4f81917732c
 
-20 Ej17 d237fcb826dd20bbef477e89e4e9711fc45d49dd
+21 Ej17 d237fcb826dd20bbef477e89e4e9711fc45d49dd
 
-21 Update and rename EJ17 to EJ17.md eb4c6ef223f06f0b1d0bf8d1c660c95465cf2673
+22 Update and rename EJ17 to EJ17.md eb4c6ef223f06f0b1d0bf8d1c660c95465cf2673
 
-22 Update EJ17.md e3b4a3387d02d9db0592bf54c56a26b0bd8db668
+23 Update EJ17.md e3b4a3387d02d9db0592bf54c56a26b0bd8db668
 
-23 Ej20/21 4999a0ceb9b940fcc2f126c7c2dada177632ca48
+24 Ej20/21 4999a0ceb9b940fcc2f126c7c2dada177632ca48
 
-24 Update and rename EJ20 to EJ20.md 0f74cb6828fa52d45d32a839232e01855df5f384
+25 Update and rename EJ20 to EJ20.md 0f74cb6828fa52d45d32a839232e01855df5f384
 
-25 Update and rename EJ21 to EJ 21. md e23c992314c0b6022decd98089227b5597a2bad0
+26 Update and rename EJ21 to EJ 21. md e23c992314c0b6022decd98089227b5597a2bad0
 
-26 Update README.md 5cbf913fdefaa556569dc0d3bccbdf3070c33c6c
+27 Update README.md 5cbf913fdefaa556569dc0d3bccbdf3070c33c6c
 
-27 Update README.md f385d129de5374c526ed6d5aa59f45b92ed972a1
+28 Update README.md f385d129de5374c526ed6d5aa59f45b92ed972a1
 
-28 Update EJ1.md 372a060e9bf4e9ecc48c14b6b06b4ea06a602c2d
+29 Update EJ1.md 372a060e9bf4e9ecc48c14b6b06b4ea06a602c2d
 
-29 Update EJ1.md 2486b17618a83b049eb356c98aa612ec69c34934
+30 Update EJ1.md 2486b17618a83b049eb356c98aa612ec69c34934
 
-30 Update EJ5.md e9e20634d7cb2124bd7fba5ebdcb6b551cc4c293
+31 Update EJ5.md e9e20634d7cb2124bd7fba5ebdcb6b551cc4c293
 
-31 Update EJ5.md 9a71c3e4c5fd1253f7aa3ba82fc075876f3011b7
+32 Update EJ5.md 9a71c3e4c5fd1253f7aa3ba82fc075876f3011b7
 
-32 Ej10 578490bff5beddbf69127611057d5bab12c54142
+33 Ej10 578490bff5beddbf69127611057d5bab12c54142
 
-33 Merge branch 'main' of https://github.com/AndyGayar/EjersED aa16a6c8db6d0e1d2df0c9b5fd6bc8e71d4346f8
+34 Merge branch 'main' of https://github.com/AndyGayar/EjersED aa16a6c8db6d0e1d2df0c9b5fd6bc8e71d4346f8
 
-34 Update and rename EJ10 to EJ10.md f6b3f0535a8c1ba8bf53ef216396a0a3163cf111
+35 Update and rename EJ10 to EJ10.md f6b3f0535a8c1ba8bf53ef216396a0a3163cf111
 
-35 Update EJ10.md afe5ace9b47fe18d242d597abbd5a7789a220708
+36 Update EJ10.md afe5ace9b47fe18d242d597abbd5a7789a220708
 
-36 Update EJ1.md bd4fec125c29bfbb76559b49d7680a855471d284
+37 Update EJ1.md bd4fec125c29bfbb76559b49d7680a855471d284
 
-37 Update EJ2.md 397cdd2e67ba28766ae46ccbd4d479b66a242835
+38 Update EJ2.md 397cdd2e67ba28766ae46ccbd4d479b66a242835
 
-38 Update and rename Ej3 to Ej3.md 4d3515d66fac12db28592f8e7768dc09f73dd7e4
+39 Update and rename Ej3 to Ej3.md 4d3515d66fac12db28592f8e7768dc09f73dd7e4
+
+40 Update README.md f62d3024ed703dccb4f72c03df16a3f5e7d4f16a
+
+41 Update README.md ef02196c25797622b2f1897e355a7f3c3d71a5c9
+
+42 Update EJ10.md eba126beb1ed52592a8e5349e19fc6fb0e3e6f71
+
+43 Update EJ10.md 3fb513b26f3146784c49faff5106ea03d75bb412
